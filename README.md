@@ -1,3 +1,9 @@
+# **RECOMMENDATION SYSTEM**
+
+A recommendation system is a subclass of Information filtering Systems that seeks to predict the rating or the preference a user might give to an item. In simple words, it is an algorithm that suggests relevant items to users. Eg: In the case of Netflix which movie to watch, In the case of e-commerce which product to buy, or In the case of kindle which book to read, etc.
+
+![1_D8qyeXxlbHFUlpZtfjvM7Q](https://user-images.githubusercontent.com/108968831/210201491-446be69d-772e-4007-b9ec-76d96b5b065d.png)
+
 
 # **Book Recommendation System**
 
